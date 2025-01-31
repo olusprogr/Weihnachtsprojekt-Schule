@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ufo
+comment1.params=pX\ pY\ pAsteroid\ derBlaueAsteroid\ mond\ coin\ speedBoost\ defence\ laser
+comment1.target=Ufo(double,\ double,\ Asteroid,\ Asteroid_blau,\ Mond,\ Booster,\ Speed,\ Defence,\ Laser)
+comment2.params=
+comment2.target=void\ bewegeLinks()
+comment3.params=
+comment3.target=void\ bewegeRechts()
+comment4.params=
+comment4.target=boolean\ istKollidiert()
+comment5.params=direction
+comment5.target=void\ turningAnimation(java.lang.String)
+numComments=6
