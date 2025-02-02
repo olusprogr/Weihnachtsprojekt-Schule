@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment1.params=pX\ pY
+comment1.target=Asteroid(double,\ double)
+comment2.params=
+comment2.target=void\ bewege()
+comment3.params=
+comment3.target=sas.Picture\ getShapeAsImg()
+numComments=4
