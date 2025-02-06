@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Laser
+comment1.params=pX\ pY
+comment1.target=Laser(double,\ double)
+comment2.params=
+comment2.target=void\ bewege()
+comment3.params=
+comment3.target=sas.Picture\ getShapeAsImg()
+comment4.params=state
+comment4.target=void\ setLaserActivated(boolean)
+comment5.params=
+comment5.target=boolean\ getLaserActivated()
+numComments=6
